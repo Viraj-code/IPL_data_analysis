@@ -37,7 +37,7 @@ I'm new to Spark and big data tools, and this project helped me:
 This is an **exploratory project** meant for learning purposes. I'm still in the early stages of learning Spark, so the focus was more on understanding the fundamentals rather than building a production-level pipeline.
 
 ## 📷 Screenshots
-*(Add images of output tables or spark jobs here if you want)*
+
 
 ## 📁 How to Run
 1. Install Jupyter and PySpark
